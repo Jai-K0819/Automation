@@ -1,6 +1,6 @@
 package automate;
 
-import java.io.*;
+
 
 public class FirstTest {
 	public static void main(String args[])
